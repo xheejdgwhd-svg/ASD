@@ -1,0 +1,23 @@
+[
+  {
+    "id": "vs-001",
+    "title": "Bronze Aura",
+    "price": 120,
+    "label": "Bronze Haus",
+    "image": "/placeholder-style.svg"
+  },
+  {
+    "id": "vs-002",
+    "title": "Violet Drift",
+    "price": 160,
+    "label": "Violet Grid",
+    "image": "/placeholder-style.svg"
+  },
+  {
+    "id": "vs-003",
+    "title": "Glass Echo",
+    "price": 210,
+    "label": "Bronze Haus",
+    "image": "/placeholder-style.svg"
+  }
+]

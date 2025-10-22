@@ -1,0 +1,1 @@
+export async function GET(){return new Response(JSON.stringify([{id:'bronze-haus',title:'Bronze Haus',members:24},{id:'violet-grid',title:'Violet Grid',members:13}]),{headers:{'Content-Type':'application/json'}})}
