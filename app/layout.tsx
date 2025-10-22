@@ -1,4 +1,4 @@
-import './globals.css';import { ReactNode } from 'react';import Link from 'next/link';
+import '../styles/globals.css';import { ReactNode } from 'react';import Link from 'next/link';
 export const metadata={title:'Виртуальный стиль как новая валюта',description:'Create, own and trade digital style — avatars, identities, visual packs.',manifest:'/manifest.webmanifest',themeColor:'#1C1410'};
 export default function RootLayout({children}:{children:ReactNode}){
   return(<html lang="ru"><body>
